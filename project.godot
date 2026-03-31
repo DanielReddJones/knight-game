@@ -11,8 +11,9 @@ config_version=5
 [application]
 
 config/name="knight_game"
+run/main_scene="uid://7tk451lfby0r"
 config/features=PackedStringArray("4.6", "GL Compatibility")
-config/icon="res://icon.svg"
+config/icon="res://assets/sprites/placeholder_sprites/icon.svg"
 
 [physics]
 
